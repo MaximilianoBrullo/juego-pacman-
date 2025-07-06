@@ -195,9 +195,4 @@ public class PantallaBienvenida extends JFrame {
             this.lblPuntuacionMaxima.setIcon(imgCopa);
         }
     }
-
-    // Metodo principal.
-    public static void main(String[] args) {
-        new PantallaBienvenida();
-    }
 }
